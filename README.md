@@ -14,7 +14,7 @@ I am a CS student, dabbling around web development/web design (frontend now) and
 
 <a href="https://codepen.io/vikramcodes" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" alt="codepen" width="35" height="35" /></a>   <a href="https://twitter.com/VikramCodes" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter" width="30" height="30" /></a> <a href="https://www.showwcase.com/vikram"><img src="https://profile-assets.showwcase.com/7/1627017318438-Logo3x.jpg" width="35" height="35" /></a>
 
-[![vikram's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vikramcodes&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![vikram's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vikramcodes&layout=compact&show_icons=true&theme=dracula)](https://wakatime.com/@vikramcodes)
 
 
 <!--
