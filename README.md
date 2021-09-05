@@ -10,11 +10,12 @@ I am a CS student, dabbling around web development/web design (frontend now) and
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" height="35" alt="Java" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35" height="35" alt="C" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35" height="35" alt="C++" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram-Hegde&layout=compact&theme=github_dark)]()
+
 ### Socials
 
-<a href="https://codepen.io/vikramcodes" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" alt="codepen" width="35" height="35" /></a>   <a href="https://twitter.com/VikramCodes" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter" width="30" height="30" /></a> <a href="https://www.showwcase.com/vikram"><img src="https://profile-assets.showwcase.com/7/1627017318438-Logo3x.jpg" width="35" height="35" /></a>
+[![Codepen](https://img.shields.io/badge/codepen-white?&style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/vikramcodes) [![Twitter](https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter)](https://twitter.com/VikramCodes) [![LinkedIn](https://img.shields.io/badge/-linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vikramcodes/)
 
-[![vikram's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vikramcodes&layout=compact&show_icons=true&theme=dracula)](https://wakatime.com/@vikramcodes)
 
 
 <!--
