@@ -1,7 +1,7 @@
 # Hi there 👋, I am Vikram
 <img src="https://img.shields.io/badge/pronoun-he%2Fhim-blue?style=flat-square" alt="pronouns: he/him" />
 
-I am a CS student, dabbling around web development/web design (frontend now) and very much enthusiastic about learning Linux. I love taking my time to customize my experience aesthetically while being functional
+A CS student, dabbling around web development/web design (frontend now) and very much enthusiastic about learning Linux. I love taking my time to customize my experience aesthetically while being functional
 
 ---
 
