@@ -7,7 +7,7 @@ A CS student, dabbling around web development/web design (frontend now) and very
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nextjs,figma,git,vim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,svelte,figma,vim&theme=dark)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram-Hegde&layout=compact&theme=github_dark)]()
 
