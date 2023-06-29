@@ -2,6 +2,12 @@
 
 A CS student, dabbling around web development/web design (frontend now) and very much enthusiastic about learning Linux. I love taking my time to customize my experience aesthetically while being functional
 
+* 🌍  I'm based in Bengaluru, India
+* ✉️  You can contact me at [vikramhegde1440@gmail.com](mailto:vikramhegde1440@gmail.com)
+* 🚀  My latest project was on [Bibliophyle](https://bibliophyle.vercel.app)
+* 🧠  I'm learning React / Next JS
+* 🤝  I'm open to collaborating on any css related projects
+* ⚡  Been using Vim for about an year now, mainly because I can't exit
 ---
 
 ## Skills
