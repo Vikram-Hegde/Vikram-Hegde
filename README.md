@@ -1,6 +1,6 @@
 # Hey there 👋, Vikram here!
 
-A CS student, dabbling around web development/web design (frontend now) and very much enthusiastic about learning Linux. I love taking my time to customize my experience aesthetically while being functional
+A CS student, dabbling around web development/web design (frontend) and very much enthusiastic about learning Linux. I love taking my time to customize my experience aesthetically while being functional
 
 * 🌍  I'm based in Bengaluru, India
 * ✉️  You can contact me at [vikramhegde1440@gmail.com](mailto:vikramhegde1440@gmail.com)
