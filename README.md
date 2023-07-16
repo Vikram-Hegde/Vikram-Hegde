@@ -7,7 +7,7 @@ A CS student, dabbling around web development/web design (frontend) and very muc
 * 🚀  My latest project was on [Bibliophyle](https://bibliophyle.vercel.app)
 * 🧠  I'm learning React / Next JS
 * 🤝  I'm open to collaborating on any css related projects
-* ⚡  Been using Vim for about an year now, mainly because I can't exit
+* ⚡  Been using Vim for about an year now, mainly because I cannot exit
 ---
 
 ## Skills
