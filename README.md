@@ -18,7 +18,7 @@ A CS student, dabbling around web development/web design and very much enthusias
 
 ## Socials
 
-[![Codepen](https://img.shields.io/badge/codepen-white?&style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/vikramcodes) [![Twitter](https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter)](https://twitter.com/VikramCodes) [![LinkedIn](https://img.shields.io/badge/-linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vikramcodes/)
+[![Codepen](https://img.shields.io/badge/codepen-white?&style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/vikramcodes) [![Twitter](https://img.shields.io/badge/-twitter-white?style=for-the-badge&logo=twitter)](https://twitter.com/_vikramhegde_) [![LinkedIn](https://img.shields.io/badge/-linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vikramcodes/)
 
 
 
