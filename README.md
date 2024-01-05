@@ -4,7 +4,7 @@ A CS student, dabbling around web development/web design and very much enthusias
 
 * 🌍  I'm based in Bengaluru, India
 * ✉️  You can contact me at [vikramhegde1440@gmail.com](mailto:vikramhegde1440@gmail.com)
-* 🚀  My latest project was on [Bibliophyle](https://bibliophyle.vercel.app)
+* 🚀  My latest project was on [SchemeSetu](https://schemesetu.vercel.app)
 * 🧠  I'm learning Fullstack Web Development
 * 🤝  I'm open to collaborating on any css related projects
 * ⚡  Been using Vim for about an year now, mainly because I cannot exit
