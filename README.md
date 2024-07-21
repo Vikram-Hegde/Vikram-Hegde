@@ -1,6 +1,6 @@
 # Hey there 👋, Vikram here!
 
-A CS student, dabbling around web development/web design and enthusiastic about learning the command line way (Linux). I love taking my time to customize my experience aesthetically while being functional
+A enthusiastic developer, dabbling around development & design and interested about learning the command line way. I love taking my time to customize my experience aesthetically while being functional
 
 * 🌍  I'm based in Bengaluru, India
 * ✉️  You can contact me at [vikramhegde1440@gmail.com](mailto:vikramhegde1440@gmail.com)
